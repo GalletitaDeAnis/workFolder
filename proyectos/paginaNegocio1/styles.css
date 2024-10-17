@@ -1,0 +1,37 @@
+body {
+    background-color: #e9f7ff;
+}
+
+.card-title {
+    color: #000;
+    font-weight: bold;
+}
+
+.card-body ul {
+    text-align: left;
+}
+
+.btn-primary {
+    background-color: #6c63ff;
+    border: none;
+}
+
+.text-muted {
+    font-size: 14px;
+}
+
+.navbar-light .navbar-nav .nav-link {
+    color: #000;
+}
+
+.navbar-light .navbar-nav .nav-link:hover {
+    color: #007bff;
+}
+
+.navbar-light .navbar-brand {
+    font-weight: bold;
+}
+
+.bg-primary {
+    background-color: #000 !important;
+}
